@@ -1,0 +1,43 @@
+#img {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.7;
+  }
+
+  #chilli{
+    
+    list-style: none;
+  }
+  .button{
+    position: relative;
+    bottom: 30px;
+
+  }
+  .icon{
+    position: relative;
+    top: 20px;
+  }
+  .barra{
+    position: relative;
+    top: 15px;
+  }
+
+.btn{
+  position: relative;
+  bottom: 5px;
+}
+
+#book{
+  border: 2ps solid green;
+  background-image: url('/fork2.jpg');/* /background2.jpg */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.7;
+ 
+
+}
